@@ -114,3 +114,6 @@ var id = schedule.scheduleJob({period: 1000}, simpleJob, {});
 schedule.cancelJob(id);
 ```
 When you cancel a job, it will stop schedule immidiatelly, and delete the job.
+
+
+Test
